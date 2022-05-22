@@ -1,6 +1,6 @@
 
 
-<h2> Hi, Laura! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Laura! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/l9WttEc1zQhfIpT3zk/giphy.gif?cid=ecf05e47s7r3kekwqrzyslhwxonklnemjx7eusblksevjkxb&rid=giphy.gif&ct=g" width="230">
 <p><em>Full Stack Developer <a href="http://www.unb.br">Bogota Institute Of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programming Habilities Diploma <a href="https://www.thoughtworks.com">Universidad Tecnologica de Pereira</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
