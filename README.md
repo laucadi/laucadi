@@ -18,7 +18,7 @@ const Laura Caicedo = {
   code: [Javascript, Typescript, HTML, CSS, Python, MongoDb, Express],
   tools: [Angular, Node],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am currently study Angular and typescript"
 }
 ```
 
