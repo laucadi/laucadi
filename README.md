@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Linkedin: Laura Caicedo](https://img.shields.io/badge/-LauraCaicedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-caicedo-378387238/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Laura Caicedo](https://img.shields.io/badge/-LauraCaicedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-caicedo-378387238/)](https://www.linkedin.com/in/laura-caicedo-378387238/)
 [![GitHub Laucadi](https://img.shields.io/github/followers/laucadi?label=follow&style=social)](https://github.com/laucadi)
 
 
