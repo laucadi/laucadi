@@ -16,9 +16,9 @@
 const Laura Caicedo = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, MongoDb, Express],
-  tools: [Angular, Node],
+  tools: [Angular, React, Node],
 
- challenge: "I am currently study Angular and typescript"
+ challenge: "I am currently study React"
 }
 ```
 
